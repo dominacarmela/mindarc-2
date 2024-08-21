@@ -77,6 +77,7 @@
   }
   .myJson-list__item {
     border-bottom: 1px solid #ffffff;
+    cursor: pointer;
     padding: 0;
   }
   .myJson-list .myJson__content {
